@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Ravindu Dinushan</h1>
 <h3 align="center">"Coding Chronicles: My GitHub Adventure"</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif)">
+<img align="right" alt="Coding" width="400" src="(https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif)">
 - 🌱 I’m currently learning **JAVA**
 
 - 📫 How to reach me **ravindudinushan9966@gmail.com**
