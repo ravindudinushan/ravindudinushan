@@ -5,8 +5,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;IJSE+GDSE+Student;Java%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforcus;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <br>
-
-<h3 align="center">"Coding Chronicles: My GitHub Adventure"</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravindudinushan&label=Profile%20views&color=0e75b6&style=flat" alt="ravindudinushan" /> </p>
 
