@@ -78,6 +78,7 @@
 
 ## 🔥 Streak Stats
 
+![](https://github-profile-trophy.vercel.app/?username=ravindudinushan&theme=radical&no-frame=true&no-bg=false&margin-w=4)<br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ravindudinushan&theme=monokai)
 <br>
 <br>
@@ -86,7 +87,8 @@
 <br>
 
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ravindudinushan&theme=tokyonight" />
-  
+   
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravindudinushan&theme=2077)
    
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&color=2ED573&width=600&lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+)](https://git.io/typing-svg)
 
@@ -102,7 +104,7 @@
 ![FaceBook](https://img.shields.io/badge/FaceBook-blue?logo=FaceBook&logoColor=white&style=for-the-badge)
 
 </p>
-
+<h4 align="center"><i>Thank you for coming my GitHub Profile 🤝 Have a wonderful day!</i></h4>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
