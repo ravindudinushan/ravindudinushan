@@ -6,11 +6,12 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;IJSE+GDSE+Student;Java%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforcus;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <br>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravindudinushan&label=Profile%20views&color=0e75b6&style=flat" alt="ravindudinushan" /> </p>
 
 - ## 👨‍🦰 About me :
 
+- 🏫 I Studied at `Devapathiraja National College`
 - 👨‍🎓 I'm`Studying` at IJSE-Institute of Software Engineering...
 - 🌱 I’m currently learning `Computer Science` and `Software Engineering`.
 - 📫 How to reach me **ravindudinushan9966@gmail.com**
