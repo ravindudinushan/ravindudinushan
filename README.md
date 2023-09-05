@@ -80,9 +80,8 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=ravindudinushan&theme=radical&no-frame=true&no-bg=false&margin-w=4)<br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ravindudinushan&theme=monokai)
-<br>
-<br>
-[![](https://github-readme-streak-stats.herokuapp.com?user=ravindudinushan&theme=soft-green)]
+
+![](https://github-readme-streak-stats.herokuapp.com?user=ravindudinushan&theme=soft-green)
 <br>
 <br>
 
