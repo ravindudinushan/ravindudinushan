@@ -6,7 +6,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;IJSE+GDSE+Student;Java%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforcus;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <br>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<div align="center">
+  <img height="" src="https://github.com/ImanAdithya/ImanAdithya/assets/121780063/de0b1866-3b95-49e1-8608-cf435ce65b0f"  />
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravindudinushan&label=Profile%20views&color=0e75b6&style=flat" alt="ravindudinushan" /> </p>
 
 - ## 👨‍🦰 About me :
@@ -39,6 +41,10 @@
 <p align="left">
 <a href="https://linkedin.com/in/ravindu dinushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravindu dinushan" height="30" width="40" /></a>
 <a href="https://web.facebook.com/profile.php?id=100010660606139" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ravindu dinushan" height="30" width="40" /></a>
+<a href="https://twitter.com/ravindudinushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ravindudinushan" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/ravindudinushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ravindudinushan" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/ravindudinushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="ravindudinushan" height="30" width="40" /></a>
+<a href="https://discord.gg/ravindudinushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ravindudinushan" height="30" width="40" /></a>
 </p>
 <br>
 
