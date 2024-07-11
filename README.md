@@ -47,7 +47,7 @@
 
 | Title | Icon |
 | ------ | ------ |
-| IDE's |  <img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode" /> |
+| IDE's |  <img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode,pycharm" /> |
 | App Development |  <img src="https://skillicons.dev/icons?i=dart,java" /> |
 | Front End | <img src="https://skillicons.dev/icons?i=html,bootstrap,css,tailwind,materialui,js,jquery,react,ts" /> |
 | Back End |  <img src="https://skillicons.dev/icons?i=hibernate,java,python,spring,nodejs,express,mysql,mongodb" /> |
