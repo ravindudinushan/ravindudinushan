@@ -17,7 +17,6 @@
 - 👨‍🎓 I'm`Studying` at IJSE-Institute of Software Engineering...
 - 🌱 I’m currently learning `Computer Science` and `Software Engineering`.
 - 📫 How to reach me **ravindudinushan9966@gmail.com**
-- 🖥️  See my portfolio at [My Website [](https://ravindudinushan.github.io/MyPortfolio/)]
 - 💻 I am a competitive programmer mainly at `Codeforces`.
 - 👨 Always `learning new things`
 - 👯 I’m looking to collaborate.
